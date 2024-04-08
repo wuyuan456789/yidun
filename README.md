@@ -7,5 +7,5 @@ python主要模块 requests  execjs  loguru <br>
 execjs执行js报错;UnicodeEncodeError: ‘gbk‘<br>
 异常 UnicodeEncodeError: ‘gbk’ codec can’t encode character ‘\ufffd’ in position 160: illegal multibyte sequence<br>
 ![image](https://github.com/wuyuan456789/yidun/assets/166347308/8b446b99-6a3c-4d50-bd9a-89aadbf2c41b)<br>
-方法一：修改subprocess.py文件的 encoding=None<br>
+修改subprocess.py文件的 encoding=None<br>
 ![image](https://github.com/wuyuan456789/yidun/assets/166347308/9af3f163-3df3-4f64-80bf-f27a591ec82f)<br>
