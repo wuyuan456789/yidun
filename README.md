@@ -1,10 +1,12 @@
-易盾滑块整套在这里了，除了例子外，其他的请自行研究 <br>
+成功率 95% 以上，易盾滑块整套在这里了，除了例子外，其他的请自行研究 <br>
 python主要模块 requests  execjs  loguru ddddocr <br>
 缺少什么安装什么就行了<br>
 运行效果：<br>
 
 ![image](https://github.com/wuyuan456789/yidun/assets/166347308/110adad1-62ff-4a6c-a1e2-e79a7a08990b) <br>
-![image](https://github.com/wuyuan456789/yidun/assets/166347308/51a673c3-085c-4050-b4b9-8903cdaa72f1)<br>
+
+![image](https://github.com/wuyuan456789/yidun/assets/166347308/1435f317-b0db-43b7-8e91-1c51d6c33225) <br>
+
 
 <br>
 可能错误：<br>
